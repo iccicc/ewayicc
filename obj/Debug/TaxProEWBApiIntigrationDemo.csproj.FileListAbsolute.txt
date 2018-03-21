@@ -1,0 +1,16 @@
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\TaxProEWBApiIntigrationDemo.exe.config
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\TaxProEWBApiIntigrationDemo.exe
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\TaxProEWBApiIntigrationDemo.pdb
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\Newtonsoft.Json.dll
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\RestSharp.dll
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\Newtonsoft.Json.xml
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\RestSharp.xml
+F:\TaxProEWBApiIntigrationDemo\obj\Debug\TaxProEWBApiIntigrationDemo.csprojResolveAssemblyReference.cache
+F:\TaxProEWBApiIntigrationDemo\obj\Debug\TaxProEWBApiIntigrationDemo.Form1.resources
+F:\TaxProEWBApiIntigrationDemo\obj\Debug\TaxProEWBApiIntigrationDemo.Properties.Resources.resources
+F:\TaxProEWBApiIntigrationDemo\obj\Debug\TaxProEWBApiIntigrationDemo.csproj.GenerateResource.Cache
+F:\TaxProEWBApiIntigrationDemo\obj\Debug\TaxProEWBApiIntigrationDemo.exe
+F:\TaxProEWBApiIntigrationDemo\obj\Debug\TaxProEWBApiIntigrationDemo.pdb
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\TaxProEWB.API.dll
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\TaxProEWB.API.pdb
+F:\TaxProEWBApiIntigrationDemo\bin\Debug\BouncyCastle.Crypto.dll

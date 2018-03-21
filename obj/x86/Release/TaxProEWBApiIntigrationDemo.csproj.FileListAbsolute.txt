@@ -1,0 +1,15 @@
+F:\TaxProEWBApiIntigrationDemo\bin\x86\Release\TaxProEWBApiIntigrationDemo.exe.config
+F:\TaxProEWBApiIntigrationDemo\bin\x86\Release\TaxProEWBApiIntigrationDemo.exe
+F:\TaxProEWBApiIntigrationDemo\bin\x86\Release\TaxProEWBApiIntigrationDemo.pdb
+F:\TaxProEWBApiIntigrationDemo\bin\x86\Release\Newtonsoft.Json.dll
+F:\TaxProEWBApiIntigrationDemo\bin\x86\Release\RestSharp.dll
+F:\TaxProEWBApiIntigrationDemo\bin\x86\Release\TaxProEWB.API.dll
+F:\TaxProEWBApiIntigrationDemo\bin\x86\Release\TaxProEWB.API.pdb
+F:\TaxProEWBApiIntigrationDemo\bin\x86\Release\Newtonsoft.Json.xml
+F:\TaxProEWBApiIntigrationDemo\bin\x86\Release\RestSharp.xml
+F:\TaxProEWBApiIntigrationDemo\obj\x86\Release\TaxProEWBApiIntigrationDemo.csprojResolveAssemblyReference.cache
+F:\TaxProEWBApiIntigrationDemo\obj\x86\Release\TaxProEWBApiIntigrationDemo.Form1.resources
+F:\TaxProEWBApiIntigrationDemo\obj\x86\Release\TaxProEWBApiIntigrationDemo.Properties.Resources.resources
+F:\TaxProEWBApiIntigrationDemo\obj\x86\Release\TaxProEWBApiIntigrationDemo.csproj.GenerateResource.Cache
+F:\TaxProEWBApiIntigrationDemo\obj\x86\Release\TaxProEWBApiIntigrationDemo.exe
+F:\TaxProEWBApiIntigrationDemo\obj\x86\Release\TaxProEWBApiIntigrationDemo.pdb

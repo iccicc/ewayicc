@@ -1,0 +1,11 @@
+{
+  "ID": 0,
+  "GSPName": "TaxPro",
+  "AspUserId": "",
+  "AspPassword": "",
+  "EWBClientId": "test_gsp781",
+  "EWBClientSecret": "OUJDMTIzQEB1BU1NXT1JE245",
+  "EWBGSPUserID": "00AACCC1596Q000",
+  "AuthUrl": "",
+  "BaseUrl": "http://testapi.taxprogsp.co.in/ewaybillapi/v1.01"
+}

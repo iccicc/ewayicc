@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxProEWBApiIntigrationDemo", "TaxProEWBApiIntigrationDemo.csproj", "{90DA0FB8-9F5E-40E5-8EDF-D367B8396B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxProEWB.API", "..\TaxProEWB.API\TaxProEWB.API.csproj", "{C5D05A10-05AE-4E59-B1E4-F658FDA22DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DA0FB8-9F5E-40E5-8EDF-D367B8396B6C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{90DA0FB8-9F5E-40E5-8EDF-D367B8396B6C}.Debug|Any CPU.Build.0 = Debug|x86
+		{90DA0FB8-9F5E-40E5-8EDF-D367B8396B6C}.Debug|x86.ActiveCfg = Debug|x86
+		{90DA0FB8-9F5E-40E5-8EDF-D367B8396B6C}.Debug|x86.Build.0 = Debug|x86
+		{90DA0FB8-9F5E-40E5-8EDF-D367B8396B6C}.Release|Any CPU.ActiveCfg = Release|x86
+		{90DA0FB8-9F5E-40E5-8EDF-D367B8396B6C}.Release|Any CPU.Build.0 = Release|x86
+		{90DA0FB8-9F5E-40E5-8EDF-D367B8396B6C}.Release|x86.ActiveCfg = Release|x86
+		{90DA0FB8-9F5E-40E5-8EDF-D367B8396B6C}.Release|x86.Build.0 = Release|x86
+		{C5D05A10-05AE-4E59-B1E4-F658FDA22DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D05A10-05AE-4E59-B1E4-F658FDA22DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D05A10-05AE-4E59-B1E4-F658FDA22DCB}.Debug|x86.ActiveCfg = Debug|x86
+		{C5D05A10-05AE-4E59-B1E4-F658FDA22DCB}.Debug|x86.Build.0 = Debug|x86
+		{C5D05A10-05AE-4E59-B1E4-F658FDA22DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D05A10-05AE-4E59-B1E4-F658FDA22DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D05A10-05AE-4E59-B1E4-F658FDA22DCB}.Release|x86.ActiveCfg = Release|x86
+		{C5D05A10-05AE-4E59-B1E4-F658FDA22DCB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
